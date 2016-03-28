@@ -55,6 +55,7 @@
 	* The proportions matter
 	* Do Not mess it up
 * Background images can be done in layers, one on top of the other.
+	* If you're layering images, DO NOT let the text touch the other image. It loses all depth and looks really goofy and wrong. Keep them shifted away from each other.
 * Background images can be tiled
 * Can make an image on top look like it has a shadow on the image below it, to give the set-up depth
 * Can use transparency to great effect
